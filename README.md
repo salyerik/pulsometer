@@ -1,4 +1,4 @@
-# This is the Shopping Landing page
+# This is a Shopping Landing page
 
 ## I used here:
 * HTML (BEM)
